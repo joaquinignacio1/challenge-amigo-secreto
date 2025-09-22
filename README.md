@@ -7,6 +7,6 @@
 <p>- Sorteo en sí, para poder encontrar un ganador </p>
 
 <h3> Todo esto fue realizado con los siguientes Lenguajes de programación:</h3>
-- Javascript
-- Base de HTML
-- Base CSS
+<p>- Javascript</p>
+<p>- Base de HTML</p>
+<p>- Base CSS</p>
